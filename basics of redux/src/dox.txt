@@ -1,0 +1,4 @@
+#NPM Labraries
+npx create-react-app rrtk
+npm i @reduxjs/toolkit
+npm i axios
